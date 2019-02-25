@@ -1,0 +1,19 @@
+{
+  "name": "robo-video-maker",
+  "version": "1.0.0",
+  "description": "Robô de automatização de vídeos para o youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thicsilva/robo-video-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thicsilva/robo-video-maker/issues"
+  },
+  "homepage": "https://github.com/thicsilva/robo-video-maker#readme"
+}
